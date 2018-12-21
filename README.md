@@ -1,1 +1,0 @@
-# aws-translator-poc
